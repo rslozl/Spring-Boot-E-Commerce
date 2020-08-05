@@ -1,4 +1,4 @@
 # Spring-Boot-E-Commerce
  E-Commerce Site With Back-End | JAVA Spring
 
-![alt text](https://i.pinimg.com/originals/14/6c/f7/146cf792f689e1a89207dc0cd6ee24e8.jpg)
+![GitHub Logo](file:///Users/resul/Desktop/Screenshot%202020-08-05%20at%2021.59.03.png)
