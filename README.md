@@ -7,7 +7,10 @@
 ## PRODUCTS CONTROLLER
 ![Screenshot](https://raw.githubusercontent.com/rslozl/Spring-Boot-E-Commerce/master/picture-1.png)
 ## USER CONTROLLER
+![Screenshot](https://raw.githubusercontent.com/rslozl/Spring-Boot-E-Commerce/master/user.png)
 ## SALES CONTROLLER
+![Screenshot](https://raw.githubusercontent.com/rslozl/Spring-Boot-E-Commerce/master/satis.png)
+
 
 
 
