@@ -26,26 +26,16 @@ mvn Spring-Boot-E-Commerce:run
 #### Package Structure
 
 ```
-com.millky.blog
-    └── application
-        └── aop
-        └── configuration
-        └── utility
-    └── domain
-        └── model
-            └── command
-            └── entity
-            └── exception
-        └── repository
-        └── service
-    └── infrastructure
-        └── dao
-    └── presentation
-        └── controller
-            └── rest
-            └── web
-        └── support
-            └── result
+    teamfour
+    └── main
+        └── teamfour
+            └── Config
+            └── Controller
+            └── Entity 
+            └── Repository
+            └── Service
+            └── TeamfourApplication.java   
+        └── resource
 ```
 
 #### Environment
